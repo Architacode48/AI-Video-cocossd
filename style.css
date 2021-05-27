@@ -1,0 +1,34 @@
+body{
+    background-size:cover;
+    background-position:center;
+
+}
+.heading{
+    width:100%;
+    color:mistyrose;
+    font-size:45px;
+    box-shadow:6px 6px 20px rgb(184, 177, 177);
+    font-family: 'Dancing Script',cursive;
+    margin:0px;
+    font-weight:bolder;
+}
+.footer{
+    bottom:0px;
+    position:fixed;
+    width:100%;
+    background-color:lightskyblue;
+    color:rgb(81, 13, 99);
+    font-size:18px;
+    text-align:center;
+}
+button{
+    background-color:rgb(14, 21, 88);
+    color:mistyrose;
+    font-size:18px;
+    width:80px;
+}
+canvas{
+    border-style:groove;
+    border-color:oldlace;
+    margin-top:80px
+}
